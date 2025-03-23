@@ -1,7 +1,7 @@
 using System.Threading;
 using UnityEngine;
 
-namespace IL.Daiquiri.Core
+namespace IL.Daiquiri
 {
     public static class CancellationTokenUtility
     {

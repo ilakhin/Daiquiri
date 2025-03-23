@@ -1,4 +1,4 @@
-namespace IL.Daiquiri.Core
+namespace IL.Daiquiri
 {
     public sealed class WrappedStruct<T>
         where T : struct

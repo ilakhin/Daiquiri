@@ -1,7 +1,7 @@
 using Cysharp.Threading.Tasks;
 using LitMotion.Animation;
 
-namespace IL.Daiquiri.Core
+namespace IL.Daiquiri
 {
     public static class LitMotionAnimationExtensions
     {

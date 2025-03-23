@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace IL.Daiquiri.Core
+namespace IL.Daiquiri
 {
     public static class LifetimeTokenUtility
     {

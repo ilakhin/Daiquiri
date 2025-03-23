@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using IL.Daiquiri.Core;
 using JetBrains.Annotations;
 
 namespace IL.Daiquiri.Commands

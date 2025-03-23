@@ -1,5 +1,4 @@
 using System.Threading;
-using IL.Daiquiri.Core;
 using IL.Daiquiri.Fragments;
 using IL.Daiquiri.Popups;
 using JetBrains.Annotations;

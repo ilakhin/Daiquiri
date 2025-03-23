@@ -1,4 +1,4 @@
-namespace IL.Daiquiri.Core
+namespace IL.Daiquiri
 {
     public interface IModule
     {

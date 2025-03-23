@@ -1,6 +1,5 @@
 #if IL_DAIQUIRI_SPARSEINJECT_SUPPORT
 using System.Linq;
-using IL.Daiquiri.Core;
 using SparseInject;
 
 namespace IL.Daiquiri.SparseInject

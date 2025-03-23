@@ -1,5 +1,4 @@
 using System;
-using IL.Daiquiri.Core;
 using IL.Daiquiri.Fragments;
 using JetBrains.Annotations;
 using ObservableCollections;

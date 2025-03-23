@@ -1,6 +1,6 @@
 using System;
 
-namespace IL.Daiquiri.Core
+namespace IL.Daiquiri
 {
     public static class DisposableExtensions
     {
