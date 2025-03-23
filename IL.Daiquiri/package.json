@@ -1,0 +1,14 @@
+{
+  "name": "com.il.daiquiri",
+  "version": "0.1.0",
+  "description": "Game framework for Unity.",
+  "displayName": "Daiquiri",
+  "author": {
+    "name": "Iaroslav Lakhin",
+    "email": "iaroslav.lakhin@gmail.com"
+  },
+  "keywords": [
+    "Framework"
+  ],
+  "license": "MIT"
+}
