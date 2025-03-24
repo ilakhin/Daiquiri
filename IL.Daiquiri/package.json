@@ -10,5 +10,12 @@
   "keywords": [
     "Framework"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "com.annulusgames.lit-motion": "2.0.0",
+    "com.annulusgames.lit-motion.animation": "2.0.0",
+    "com.cysharp.unitask": "2.5.7",
+    "com.voxcake.sparseinject": "1.0.0",
+    "com.unity.addressables": "2.3.7"
+  }
 }
